@@ -1,6 +1,22 @@
 body {
     background-color: #fdfffc;
     color: #011627;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: aquamarine;
+}
+
+#nav {
+    background-color: #FF9F1C;
+    padding: 10px;
+}
+
+#section {
+    background-color: #E71D36;
 }
 
 h1, h2 {
