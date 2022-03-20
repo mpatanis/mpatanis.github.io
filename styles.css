@@ -15,7 +15,24 @@ body {
     padding: 10px;
 }
 
+#nav a:hover {
+    color: red;
+}
+
+#leftnav {
+    float: left;
+    width: 30%;
+    background-color: #FF9F1C;
+    padding: 10px;
+}
+
 #section {
+    background-color: #E71D36;
+}
+
+#floatsection {
+    float: left;
+    width: 60%;
     background-color: #E71D36;
 }
 
